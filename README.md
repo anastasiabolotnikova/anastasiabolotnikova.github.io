@@ -1,9 +1,5 @@
 # Welcome to my personal webpage
 
-## My professional path in a nutshell
-
-![photo](doc/photo.png "photo")
-
 
 ## Introduction
 
@@ -15,6 +11,11 @@ In the past 10 years, I have worked with 7 different robotics platforms in 3 dif
 
 I like doing research in robot motion planning and control, perception for robotics closed-loop control and human-robot interaction.
 
+
+
+## My professional path in a nutshell
+
+![photo](doc/photo.png "photo")
 
 
 ## Some of my works
