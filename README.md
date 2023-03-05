@@ -20,10 +20,10 @@ I like doing research in robot motion planning and control, perception for robot
 ### Task-Space Control Interface for SoftBank Humanoid Robots and its HRI Applications
 
 
+[Project Code](https://github.com/jrl-umi3218/mc_naoqi) | [Video](https://www.youtube.com/watch?v=qzEnCGlT93s) | [Publication](https://hal.science/hal-02919367v2/document) 
+
+
 ![photo](doc/sii.png "sii")
-
-
-[Project Code](https://github.com/jrl-umi3218/mc_naoqi)
 
 
 ### Multi-Contact Planning on Humans for Physical Assistance by Humanoid
