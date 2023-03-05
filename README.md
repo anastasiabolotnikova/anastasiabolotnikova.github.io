@@ -7,7 +7,9 @@
 
 ## Introduction
 
-My name is Anastasia Bolotnikova. I am a robotics researcher with a background in computer science (speciality in machine learning and data mining).
+My name is Anastasia Bolotnikova. 
+
+I am a robotics researcher with a background in computer science (speciality in machine learning and data mining).
 
 In the past 10 years, I have worked with 7 different robotics platforms in 3 different countries (Estonia, France, Switzerland).
 
@@ -32,10 +34,22 @@ I like doing research in robot motion planning and control, perception for robot
 
 [![contact](doc/contact.png)](https://www.youtube.com/watch?v=nY9zMG0EsnM "contact_observer")
 
+<object data="doc/Ro-Man2018_Bolotnikova_et_al.pdf" type="application/pdf" width="700px" height="700px">
+	<embed src="doc/Ro-Man2018_Bolotnikova_et_al.pdf">
+    	<p><a href="doc/Ro-Man2018_Bolotnikova_et_al.pdf">Curriculum Vitae</a></p>
+	</embed>
+</object>
+
 
 ### Humanoid robot in aircraft manufacturing
 
 [![case](doc/case.png)](https://www.youtube.com/watch?v=C3Y2Xc6sEY4 "case2017")
+
+<object data="doc/CASE17_0096_FI.pdf" type="application/pdf" width="700px" height="700px">
+	<embed src="doc/CASE17_0096_FI.pdf">
+    	<p><a href="doc/CASE17_0096_FI.pdf">Curriculum Vitae</a></p>
+	</embed>
+</object>
 
 
 
@@ -46,6 +60,3 @@ I like doing research in robot motion planning and control, perception for robot
     	<p><a href="doc/CV.pdf">Curriculum Vitae</a></p>
 	</embed>
 </object>
-
-
-
