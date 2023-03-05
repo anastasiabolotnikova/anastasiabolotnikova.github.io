@@ -1,4 +1,4 @@
-# Hello and Welcome to the personal webpage of Anastasia Bolotnikova
+# Welcome to my personal webpage
 
 ## My professional path in a nutshell
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-I am a robotics researcher with a background in computer science (speciality in machine learning and data mining).
+My name is Anastasia Bolotnikova. I am a robotics researcher with a background in computer science (speciality in machine learning and data mining).
 
 In the past 10 years, I have worked with 7 different robotics platforms in 3 different countries (Estonia, France, Switzerland).
 
