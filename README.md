@@ -1,8 +1,5 @@
 # Welcome to my personal webpage
 
-
-## Introduction
-
 My name is Anastasia Bolotnikova. 
 
 I am a robotics researcher with a background in computer science (speciality in machine learning and data mining).
@@ -19,6 +16,15 @@ I like doing research in robot motion planning and control, perception for robot
 
 
 ## Some of my works
+
+### Task-Space Control Interface for SoftBank Humanoid Robots and its HRI Applications
+
+
+![photo](doc/sii.png "sii")
+
+
+[Project Code](https://github.com/jrl-umi3218/mc_naoqi)
+
 
 ### Multi-Contact Planning on Humans for Physical Assistance by Humanoid
 
