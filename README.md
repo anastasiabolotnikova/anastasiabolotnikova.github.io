@@ -35,9 +35,9 @@ I like doing research in robot motion planning and control, perception for robot
 
 ## CV
 
-<object data="adaboost_report.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="adaboost_report.pdf">
-        <p>This browser does not support PDFs. Please click here to view the report: <a href="doc/CV.pdf">Curriculum Vitae</a>.</p>
+<object data="doc/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="doc/CV.pdf">
+        <p><a href="doc/CV.pdf">Curriculum Vitae</a></p>
     </embed>
 </object>
 
