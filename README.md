@@ -1,4 +1,4 @@
-# Anastasia Bolotnikova
+# Hello and Welcome to the personal webpage of Anastasia Bolotnikova
 
 ## My professional path in a nutshell
 
@@ -6,8 +6,6 @@
 
 
 ## Introduction
-
-Hello and welcome to my webpage. 
 
 I am a robotics researecher with background in computer science (scepiality in machine learning and data mining).
 
@@ -23,6 +21,12 @@ I like doing research in robot motion planning and control, perception for robot
 
 ![ral19](doc/ral19.png "ral19")
 
+<object data="doc/RA-L2020_Bolotnikova_et_al.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="doc/RA-L2020_Bolotnikova_et_al.pdf">
+        <p><a href="doc/RA-L2020_Bolotnikova_et_al.pdf">RA-L 2019</a></p>
+    </embed>
+</object>
+
 
 ### Contact observer based on tracking joint position discrepancies
 
@@ -35,7 +39,7 @@ I like doing research in robot motion planning and control, perception for robot
 
 
 
-## CV
+## My Curriculum Vitae
 
 <object data="doc/CV.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="doc/CV.pdf">
