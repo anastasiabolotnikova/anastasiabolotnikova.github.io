@@ -1,5 +1,7 @@
 # Anastasia Bolotnikova
 
+## My professional path in a nutshell
+
 ![photo](doc/photo.png "photo")
 
 
