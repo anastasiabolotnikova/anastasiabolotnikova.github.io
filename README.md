@@ -62,5 +62,4 @@ I like doing research in robot motion planning and control, perception for robot
 <object data="doc/CV.pdf" type="application/pdf" width="700px" height="700px">
 	<embed src="doc/CV.pdf">
     	<p><a href="doc/CV.pdf">Curriculum Vitae</a></p>
-	</embed>
 </object>
