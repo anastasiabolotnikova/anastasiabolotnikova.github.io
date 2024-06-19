@@ -33,7 +33,6 @@ I like doing research in robot motion planning and control, perception for robot
 <object data="doc/RA-L2020_Bolotnikova_et_al.pdf" type="application/pdf" width="700px" height="700px">
 	<embed src="doc/RA-L2020_Bolotnikova_et_al.pdf">
     	<p><a href="doc/RA-L2020_Bolotnikova_et_al.pdf">RA-L 2019</a></p>
-	</embed>
 </object>
 
 
@@ -43,8 +42,7 @@ I like doing research in robot motion planning and control, perception for robot
 
 <object data="doc/Ro-Man2018_Bolotnikova_et_al.pdf" type="application/pdf" width="700px" height="700px">
 	<embed src="doc/Ro-Man2018_Bolotnikova_et_al.pdf">
-    	<p><a href="doc/Ro-Man2018_Bolotnikova_et_al.pdf">Curriculum Vitae</a></p>
-	</embed>
+    	<p><a href="doc/Ro-Man2018_Bolotnikova_et_al.pdf">RO-MAN 2018</a></p>
 </object>
 
 
@@ -54,8 +52,7 @@ I like doing research in robot motion planning and control, perception for robot
 
 <object data="doc/CASE17_0096_FI.pdf" type="application/pdf" width="700px" height="700px">
 	<embed src="doc/CASE17_0096_FI.pdf">
-    	<p><a href="doc/CASE17_0096_FI.pdf">Curriculum Vitae</a></p>
-	</embed>
+    	<p><a href="doc/CASE17_0096_FI.pdf">CASE 2017</a></p>
 </object>
 
 
