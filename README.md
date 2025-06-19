@@ -15,6 +15,14 @@ I like doing research in robot motion planning and control, perception for robot
 ![photo](doc/photo.png "photo")
 
 
+## My Curriculum Vitae
+
+<object data="doc/CV.pdf" type="application/pdf" width="700px" height="700px">
+	<embed src="doc/CV.pdf">
+    	<p><a href="doc/CV.pdf">Curriculum Vitae</a></p>
+</object>
+
+
 ## Some of my works
 
 ### Task-Space Control Interface for SoftBank Humanoid Robots and its HRI Applications
@@ -57,9 +65,4 @@ I like doing research in robot motion planning and control, perception for robot
 
 
 
-## My Curriculum Vitae
 
-<object data="doc/CV.pdf" type="application/pdf" width="700px" height="700px">
-	<embed src="doc/CV.pdf">
-    	<p><a href="doc/CV.pdf">Curriculum Vitae</a></p>
-</object>
