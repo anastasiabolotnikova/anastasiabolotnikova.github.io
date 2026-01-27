@@ -10,7 +10,7 @@ I like doing research in robot motion planning and control, perception for robot
 
 
 
-## My professional path in a nutshell
+# My professional path in a nutshell
 
 ![photo](doc/photo.png "photo")
 
@@ -23,7 +23,7 @@ I like doing research in robot motion planning and control, perception for robot
 </object>
 
 
-## Some of my works
+# Some of my works
 
 ## Optimized user-guided motion control of modular robots
 ### Nature Communications, 2025
