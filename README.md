@@ -25,11 +25,14 @@ I like doing research in robot motion planning and control, perception for robot
 
 ## Some of my works
 
-## "Optimized user-guided motion control of modular robots", Nature Communications, 2025
+## Optimized user-guided motion control of modular robots
+### Nature Communications, 2025
 
 [Paper manuscript](https://www.nature.com/articles/s41467-025-63706-6)
 
-![jojo](doc/jojo.png "jojo")
+### Video demonstrating the JoJo system
+
+[![jojo](doc/jojo.png)](https://www.youtube.com/watch?v=U-yly7NGhsQ "Optimized user-guided motion control of modular robots")
 
 
 
