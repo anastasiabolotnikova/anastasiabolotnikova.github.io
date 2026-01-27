@@ -25,8 +25,15 @@ I like doing research in robot motion planning and control, perception for robot
 
 ## Some of my works
 
-### Task-Space Control Interface for SoftBank Humanoid Robots and its HRI Applications
+## "Optimized user-guided motion control of modular robots", Nature Communications, 2025
 
+[Paper manuscript](https://www.nature.com/articles/s41467-025-63706-6)
+
+![jojo](doc/jojo.png "jojo")
+
+
+
+### Task-Space Control Interface for SoftBank Humanoid Robots and its HRI Applications
 
 [Project Code](https://github.com/jrl-umi3218/mc_naoqi) | [Video](https://www.youtube.com/watch?v=qzEnCGlT93s) | [Publication](https://hal.science/hal-02919367v2/document) 
 
