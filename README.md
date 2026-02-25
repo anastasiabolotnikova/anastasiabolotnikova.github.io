@@ -25,21 +25,11 @@ I like doing research in robot motion planning and control, perception for robot
 
 # Some of my works
 
-## Scalable robot collective resilience by sharing resources
-### Science Robotics, 2026
-
-[Paper manuscript](https://www.science.org/doi/abs/10.1126/scirobotics.ady6304)
-
-### Paper summary video
+## [Scalable robot collective resilience by sharing resources](https://www.science.org/doi/abs/10.1126/scirobotics.ady6304), Science Robotics, 2026
 
 [![jojo](doc/sharing.png)](https://www.youtube.com/watch?v=bOeBmm8mleA "Scalable robot collective resilience by sharing resources")
 
-## Optimized user-guided motion control of modular robots
-### Nature Communications, 2025
-
-[Paper manuscript](https://www.nature.com/articles/s41467-025-63706-6)
-
-### Video demonstrating the JoJo system
+## [Optimized user-guided motion control of modular robots](https://www.nature.com/articles/s41467-025-63706-6), Nature Communications, 2025
 
 [![jojo](doc/jojo.png)](https://www.youtube.com/watch?v=U-yly7NGhsQ "Optimized user-guided motion control of modular robots")
 
